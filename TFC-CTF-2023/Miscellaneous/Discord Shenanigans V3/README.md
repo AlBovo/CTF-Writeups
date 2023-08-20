@@ -1,0 +1,2 @@
+# Discord Shenanigans V3
+In this challenge for getting the flag you had to get the icon of the TFC CTF Discord Bot by using the url like this one `https://cdn.discordapp.com/avatars/905518062084714566/66dd44020ce6e494e1f6d7f3f7d17523.webp?size=1024`<img src="flag.png">
